@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JackWHLiu.jackknife:jackknife-xskin:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b679006de6b3a0ac65dcbdc3590e4d26/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b679006de6b3a0ac65dcbdc3590e4d26/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JackWHLiu.jackknife/jackknife-xskin/master-SNAPSHOT/702ada013010ff3b08dc38a78d42a7a14f4b7859/jackknife-xskin-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

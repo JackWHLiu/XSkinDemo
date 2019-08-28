@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- 要换肤的资源必须以skin_开头，参考jackknife-xskin的SkinConfig类 -->
+    <color name="skin_background">@color/colorPrimary</color>
+    <!-- 使用下划线加后缀定义皮肤的名称 -->
+    <color name="skin_background_red">@color/colorAccent</color>
+    <!-- 比如_default、_day、_night、_classify等等 -->
+    <color name="skin_background_blue">#389CFF</color>
+</resources>
